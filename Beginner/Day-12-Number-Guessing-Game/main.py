@@ -40,4 +40,3 @@ def game():
             print("You're out of guesses. Game Over.")
             
 game()
-    
