@@ -149,12 +149,3 @@ Most projects ideas come from the Udemy course: 100 Days of Code: The Complete P
 * Authentication  
 * Web Design  
 * Deployment with GitHub Pages, Heroku and GUnicorn  
-
-## About
-
-100 Days of Code: The Complete Python Pro Bootcamp
-
-
-
-Readme  
-
